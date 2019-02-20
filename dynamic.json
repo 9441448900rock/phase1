@@ -1,0 +1,62 @@
+{
+	"profile":{
+		"img":"images.jpg",
+		"name":"B.Rohitha",
+		"rollno":"1209",
+		"place":"guntur",
+		"email":"chinnu@gmail.com"
+	},
+	"career":{
+		"info":"i want to seek job in reputed company to explore my skills and knowledge"
+	},
+	"education":[
+		{
+			"degree":"b.tech",
+			"institute":"vignan",
+			"per":"85%",
+			"year":"2017"
+		},
+	{
+
+			"degree":"intermediate",
+			"institute":"abhyaas",
+			"per":"89%",
+			"year":"2016"
+		},
+
+	{
+			"degree":"s.s.c",
+			"institute":"H.F.S",
+			"per":"85%",
+			"year":"2015"
+		}
+
+ ],
+ 		"language":[
+ 		{
+ 			"info":"english"
+ 		},
+ 		{
+ 				"info":"telugu"
+ 		},
+ 		{
+ 				"info":"hindi"
+ 		}
+ 	]
+
+ }
+
+
+
+
+
+
+
+
+
+ 	
+
+
+
+
+
